@@ -19,7 +19,7 @@ https://www.tooplate.com/view/2141-minimal-white
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
             line-height: 1.6;
-            color: red;
+            color: #8B0000;
             background: #fff;
             overflow-x: hidden;
             user-select: auto;
@@ -29,21 +29,21 @@ https://www.tooplate.com/view/2141-minimal-white
         .black-line {
             width: 100%;
             height: 1px;
-            background: red;
+            background: #8B0000;
             margin: 60px 0;
         }
 
         .black-block {
             width: 20px;
             height: 20px;
-            background: red;
+            background: #8B0000;
             position: absolute;
         }
 
         .vertical-line {
             width: 1px;
             height: 100px;
-            background: red;
+            background: #8B0000;
             margin: 40px auto;
         }
 
@@ -56,7 +56,7 @@ https://www.tooplate.com/view/2141-minimal-white
             backdrop-filter: blur(10px);
             z-index: 1000;
             padding: 20px 0;
-            border-bottom: 2px solid red;
+            border-bottom: 2px solid #8B0000;
             transition: all 0.3s ease;
         }
 
@@ -79,7 +79,7 @@ https://www.tooplate.com/view/2141-minimal-white
             font-weight: 700;
             letter-spacing: -1px;
             position: relative;
-            color: red;
+            color: #8B0000;
             text-decoration: none;
         }
 
@@ -91,7 +91,7 @@ https://www.tooplate.com/view/2141-minimal-white
             transform: translateY(-50%);
             width: 8px;
             height: 8px;
-            background: red;
+            background: #8B0000;
         }
 
         /* Hamburger Menu */
@@ -110,7 +110,7 @@ https://www.tooplate.com/view/2141-minimal-white
             display: block;
             width: 25px;
             height: 2px;
-            background: red;
+            background: #8B0000;
             margin: 3px 0;
             transition: all 0.3s ease;
         }
@@ -134,7 +134,7 @@ https://www.tooplate.com/view/2141-minimal-white
         }
 
         .nav-links a {
-            color: red;
+            color: #8B0000;
             text-decoration: none;
             font-size: 13px;
             font-weight: 500;
@@ -151,7 +151,7 @@ https://www.tooplate.com/view/2141-minimal-white
             transform: translateY(-50%);
             width: 0;
             height: 1px;
-            background: red;
+            background: #8B0000;
             transition: width 0.3s ease;
         }
 
@@ -182,7 +182,7 @@ https://www.tooplate.com/view/2141-minimal-white
             left: 10%;
             width: 100px;
             height: 1px;
-            background: red;
+            background: #8B0000;
             animation: slideRight 8s ease-in-out infinite;
         }
 
@@ -193,7 +193,7 @@ https://www.tooplate.com/view/2141-minimal-white
             right: 10%;
             width: 150px;
             height: 1px;
-            background: red;
+            background: #8B0000;
             animation: slideLeft 8s ease-in-out infinite;
         }
 
@@ -203,12 +203,12 @@ https://www.tooplate.com/view/2141-minimal-white
             right: 15%;
             width: 40px;
             height: 40px;
-            border: 2px solid red;
+            border: 2px solid #8B0000;
             transform: rotate(45deg);
             animation: rotateSquare 10s linear infinite;
         }
 
-        /* Animated Objects (Reduced) */
+        /* Animated Objects (#8B0000uced) */
         .floating-objects {
             position: absolute;
             width: 100%;
@@ -223,7 +223,7 @@ https://www.tooplate.com/view/2141-minimal-white
             position: absolute;
             width: 80px;
             height: 80px;
-            border: 1px solid red;
+            border: 1px solid #8B0000;
             border-radius: 50%;
             opacity: 0.2;
             animation: floatUp 18s ease-in-out infinite;
@@ -249,7 +249,7 @@ https://www.tooplate.com/view/2141-minimal-white
             position: absolute;
             width: 30px;
             height: 30px;
-            background: red;
+            background: #8B0000;
             opacity: 0.08;
             animation: floatDiagonal 25s linear infinite;
             top: 40%;
@@ -259,7 +259,7 @@ https://www.tooplate.com/view/2141-minimal-white
         .floating-line {
             position: absolute;
             height: 1px;
-            background: red;
+            background: #8B0000;
             opacity: 0.15;
             animation: expandContract 10s ease-in-out infinite;
             width: 200px;
@@ -369,12 +369,12 @@ https://www.tooplate.com/view/2141-minimal-white
             transform: translateX(-50%);
             width: 60px;
             height: 2px;
-            background: red;
+            background: #8B0000;
         }
 
         .hero .subtitle {
             font-size: 16px;
-            color: red;
+            color: #8B0000;
             font-weight: 400;
             margin-bottom: 50px;
             letter-spacing: 2px;
@@ -384,13 +384,13 @@ https://www.tooplate.com/view/2141-minimal-white
         .cta-button {
             display: inline-block;
             padding: 18px 50px;
-            background: red;
+            background: #8B0000;
             color: #fff;
             text-decoration: none;
             font-size: 12px;
             letter-spacing: 2px;
             transition: all 0.3s ease;
-            border: 2px solid red;
+            border: 2px solid #8B0000;
             position: relative;
         }
 
@@ -401,13 +401,13 @@ https://www.tooplate.com/view/2141-minimal-white
             right: -10px;
             width: 20px;
             height: 20px;
-            border-top: 2px solid red;
-            border-right: 2px solid red;
+            border-top: 2px solid #8B0000;
+            border-right: 2px solid #8B0000;
         }
 
         .cta-button:hover {
             background: transparent;
-            color: red;
+            color: #8B0000;
             transform: translate(-5px, -5px);
         }
 
@@ -425,7 +425,7 @@ https://www.tooplate.com/view/2141-minimal-white
             left: 0;
             width: 100%;
             height: 1px;
-            background: red;
+            background: #8B0000;
         }
 
         .container {
@@ -473,7 +473,7 @@ https://www.tooplate.com/view/2141-minimal-white
         .author-line {
             width: 50px;
             height: 1px;
-            background: red;
+            background: #8B0000;
         }
 
         .quote-author p {
@@ -488,7 +488,7 @@ https://www.tooplate.com/view/2141-minimal-white
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 2px;
-            background: red;
+            background: #8B0000;
             padding: 2px;
             margin-bottom: 100px;
         }
@@ -520,7 +520,7 @@ https://www.tooplate.com/view/2141-minimal-white
             right: 20px;
             width: 20px;
             height: 20px;
-            border: 1px solid red;
+            border: 1px solid #8B0000;
             transform: rotate(45deg);
         }
 
@@ -551,7 +551,7 @@ https://www.tooplate.com/view/2141-minimal-white
             right: -20px;
             width: 40px;
             height: 40px;
-            background: red;
+            background: #8B0000;
         }
 
         .philosophy-content {
@@ -624,7 +624,7 @@ https://www.tooplate.com/view/2141-minimal-white
             left: 0;
             right: 0;
             height: 2px;
-            background: red;
+            background: #8B0000;
             z-index: 0;
         }
 
@@ -638,7 +638,7 @@ https://www.tooplate.com/view/2141-minimal-white
             width: 40px;
             height: 40px;
             background: #fff;
-            border: 2px solid red;
+            border: 2px solid #8B0000;
             margin: 0 auto 30px;
             position: relative;
             z-index: 1;
@@ -646,7 +646,7 @@ https://www.tooplate.com/view/2141-minimal-white
         }
 
         .timeline-item:hover .timeline-dot {
-            background: red;
+            background: #8B0000;
             transform: rotate(45deg);
         }
 
@@ -684,7 +684,7 @@ https://www.tooplate.com/view/2141-minimal-white
         .black-square {
             width: 15px;
             height: 15px;
-            background: red;
+            background: #8B0000;
         }
 
         .values-grid {
@@ -695,12 +695,12 @@ https://www.tooplate.com/view/2141-minimal-white
 
         .value-card {
             padding: 60px 20px;
-            border: 1px solid red;
+            border: 1px solid #8B0000;
             transition: all 0.3s ease;
         }
 
         .value-card.black {
-            background: red;
+            background: #8B0000;
             color: #fff;
         }
 
@@ -732,7 +732,7 @@ https://www.tooplate.com/view/2141-minimal-white
         .split-divider {
             width: 2px;
             height: 300px;
-            background: red;
+            background: #8B0000;
             justify-self: center;
         }
 
@@ -756,7 +756,7 @@ https://www.tooplate.com/view/2141-minimal-white
             top: 50%;
             width: 30px;
             height: 30px;
-            background: red;
+            background: #8B0000;
             transform: translateY(-50%);
         }
 
@@ -773,7 +773,7 @@ https://www.tooplate.com/view/2141-minimal-white
         .accent-box {
             display: inline-block;
             padding: 10px 20px;
-            border: 1px solid red;
+            border: 1px solid #8B0000;
             font-size: 12px;
             letter-spacing: 1px;
             text-transform: uppercase;
@@ -787,7 +787,7 @@ https://www.tooplate.com/view/2141-minimal-white
             right: -5px;
             width: 100%;
             height: 100%;
-            background: red;
+            background: #8B0000;
             z-index: -1;
         }
 
@@ -804,7 +804,7 @@ https://www.tooplate.com/view/2141-minimal-white
             position: absolute;
             width: 50px;
             height: 50px;
-            border: 2px solid red;
+            border: 2px solid #8B0000;
         }
 
         .services::before {
@@ -846,7 +846,7 @@ https://www.tooplate.com/view/2141-minimal-white
             position: absolute;
             width: 30px;
             height: 1px;
-            background: red;
+            background: #8B0000;
             top: 50%;
             transform: translateY(-50%);
         }
@@ -867,7 +867,7 @@ https://www.tooplate.com/view/2141-minimal-white
             transform: translateX(-50%);
             width: 200px;
             height: 1px;
-            background: linear-gradient(to right, transparent, red 20%, red 80%, transparent);
+            background: linear-gradient(to right, transparent, #8B0000 20%, #8B0000 80%, transparent);
         }
 
         .asymmetric-grid {
@@ -890,7 +890,7 @@ https://www.tooplate.com/view/2141-minimal-white
         .service-large {
             background: #fff;
             padding: 60px;
-            border-left: 4px solid red;
+            border-left: 4px solid #8B0000;
             position: relative;
             transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
             overflow: hidden;
@@ -919,7 +919,7 @@ https://www.tooplate.com/view/2141-minimal-white
             right: 40px;
             width: 15px;
             height: 15px;
-            background: red;
+            background: #8B0000;
             transition: all 0.3s ease;
             pointer-events: none;
             z-index: 0;
@@ -936,7 +936,7 @@ https://www.tooplate.com/view/2141-minimal-white
 
         .asymmetric-grid.reverse .service-large {
             border-left: none;
-            border-right: 4px solid red;
+            border-right: 4px solid #8B0000;
         }
 
         .asymmetric-grid.reverse .service-large::after {
@@ -950,7 +950,7 @@ https://www.tooplate.com/view/2141-minimal-white
         }
 
         .service-small {
-            background: red;
+            background: #8B0000;
             color: #fff;
             padding: 40px;
             display: flex;
@@ -1015,7 +1015,7 @@ https://www.tooplate.com/view/2141-minimal-white
             left: 0;
             width: 0;
             height: 1px;
-            background: red;
+            background: #8B0000;
             transition: width 0.3s ease;
         }
 
@@ -1037,7 +1037,7 @@ https://www.tooplate.com/view/2141-minimal-white
         .service-tag {
             display: inline-block;
             padding: 8px 16px;
-            border: 1px solid red;
+            border: 1px solid #8B0000;
             font-size: 11px;
             letter-spacing: 1px;
             text-transform: uppercase;
@@ -1047,11 +1047,11 @@ https://www.tooplate.com/view/2141-minimal-white
             position: relative;
             z-index: 1;
             text-decoration: none;
-            color: red;
+            color: #8B0000;
         }
 
         .service-tag:hover {
-            background: red;
+            background: #8B0000;
             color: #fff;
             transform: translateY(-2px);
         }
@@ -1086,7 +1086,7 @@ https://www.tooplate.com/view/2141-minimal-white
         }
 
         .contact-divider {
-            background: red;
+            background: #8B0000;
             width: 1px;
             height: 100%;
         }
@@ -1109,7 +1109,7 @@ https://www.tooplate.com/view/2141-minimal-white
             left: 0;
             width: 40px;
             height: 2px;
-            background: red;
+            background: #8B0000;
         }
 
         .info-item {
@@ -1125,7 +1125,7 @@ https://www.tooplate.com/view/2141-minimal-white
             top: 8px;
             width: 10px;
             height: 10px;
-            background: red;
+            background: #8B0000;
             transform: rotate(45deg);
         }
 
@@ -1156,7 +1156,7 @@ https://www.tooplate.com/view/2141-minimal-white
             width: 100%;
             padding: 15px 0;
             border: none;
-            border-bottom: 2px solid red;
+            border-bottom: 2px solid #8B0000;
             background: transparent;
             font-size: 16px;
             font-family: inherit;
@@ -1191,9 +1191,9 @@ https://www.tooplate.com/view/2141-minimal-white
 
         .submit-btn {
             padding: 18px 60px;
-            background: red;
+            background: #8B0000;
             color: #fff;
-            border: 2px solid red;
+            border: 2px solid #8B0000;
             font-size: 12px;
             letter-spacing: 2px;
             cursor: pointer;
@@ -1209,13 +1209,13 @@ https://www.tooplate.com/view/2141-minimal-white
             left: -8px;
             width: 30px;
             height: 30px;
-            border-bottom: 2px solid red;
-            border-left: 2px solid red;
+            border-bottom: 2px solid #8B0000;
+            border-left: 2px solid #8B0000;
         }
 
         .submit-btn:hover {
             background: transparent;
-            color: red;
+            color: #8B0000;
             transform: translate(3px, 3px);
         }
 
@@ -1223,7 +1223,7 @@ https://www.tooplate.com/view/2141-minimal-white
         footer {
             padding: 60px 20px;
             text-align: center;
-            border-top: 3px solid red;
+            border-top: 3px solid #8B0000;
             background: #fff;
             position: relative;
         }
@@ -1236,7 +1236,7 @@ https://www.tooplate.com/view/2141-minimal-white
             transform: translateY(-50%);
             width: 100px;
             height: 1px;
-            background: red;
+            background: #8B0000;
         }
 
         footer::before {
@@ -1248,7 +1248,7 @@ https://www.tooplate.com/view/2141-minimal-white
         }
 
         footer p {
-            color: red;
+            color: #8B0000;
             font-size: 12px;
             letter-spacing: 2px;
             text-transform: uppercase;
@@ -1331,7 +1331,7 @@ https://www.tooplate.com/view/2141-minimal-white
                 transform: translateX(-50%);
                 width: 30px;
                 height: 2px;
-                background: red;
+                background: #8B0000;
             }
 
             /* About section mobile */
@@ -1430,7 +1430,7 @@ https://www.tooplate.com/view/2141-minimal-white
 
             .asymmetric-grid.reverse .service-large {
                 border-right: none;
-                border-left: 4px solid red;
+                border-left: 4px solid #8B0000;
             }
 
             .asymmetric-grid.reverse .service-large::after {
@@ -1521,8 +1521,8 @@ https://www.tooplate.com/view/2141-minimal-white
                 display: none;
             }
         }
-        /* Accessibility - Reduced Motion */
-        @media (prefers-reduced-motion: reduce) {
+        /* Accessibility - #8B0000uced Motion */
+        @media (prefers-#8B0000uced-motion: #8B0000uce) {
             * {
                 animation: none !important;
                 transition: none !important;
