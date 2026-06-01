@@ -1528,3 +1528,21 @@ https://www.tooplate.com/view/2141-minimal-white
                 transition: none !important;
             }
         }
+
+
+
+
+
+
+.value-card img{
+    width:100%;
+    display:block;
+    border-radius:4px;
+}
+
+#trusted .value-card{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    min-height:140px;
+            }
