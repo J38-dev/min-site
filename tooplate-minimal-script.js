@@ -98,3 +98,19 @@ https://www.tooplate.com/view/2141-minimal-white
             alert('Message sent successfully!');
             this.reset();
         });
+
+        const track = document.querySelector('.slider-track');
+
+document.querySelector('.next').addEventListener('click', () => {
+    track.scrollBy({
+        left: 350,
+        behavior: 'smooth'
+    });
+});
+
+document.querySelector('.prev').addEventListener('click', () => {
+    track.scrollBy({
+        left: -350,
+        behavior: 'smooth'
+    });
+});                       
